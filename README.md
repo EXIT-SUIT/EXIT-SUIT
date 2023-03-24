@@ -9,7 +9,7 @@ We are building a community of supporters to help us bring the EXIT SUIT to the 
 [![Watch the video](https://img.youtube.com/vi/JEPZkYu6nmU/default.jpg)](https://youtu.be/JEPZkYu6nmU)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JEPZkYu6nmU" target="_blank">
- <img src="https://img.youtube.com/vi/JEPZkYu6nmU/default.jpg" alt="Watch the video" width="1080" height="180" border="10" />
+ <img src="https://img.youtube.com/vi/JEPZkYu6nmU/default.jpg" alt="Watch the video" width="1920" height="1080" border="0" />
 </a>
 
 # Community  
