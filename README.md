@@ -7,7 +7,7 @@ The EXIT SUIT is a full-body force-feedback navigation and performance suit for 
 We are building a community of supporters to help us bring the EXIT SUIT to the public. We recognise it is an important step in the development of human/computer interface and virtual reality.   
 <br/><br/> 
 ![ExitImage2](https://user-images.githubusercontent.com/128419133/227615981-31b07cb4-e3fa-4e01-b3b7-790933dd20ce.jpg)   
-<br/><br/>
+<br/>
 # Community  
  
 * Youtube: https://www.youtube.com/@WillieWinkler
