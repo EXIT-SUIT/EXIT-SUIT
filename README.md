@@ -9,12 +9,11 @@ We are building a community of supporters to help us bring the EXIT SUIT to the 
 [![Watch the video](https://img.youtube.com/vi/JEPZkYu6nmU/default.jpg)](https://youtu.be/JEPZkYu6nmU)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JEPZkYu6nmU" target="_blank">
- <img src="![Lowrestitle](https://user-images.githubusercontent.com/128419133/227612104-beb2fd9a-792a-4aa7-9880-0ddba54ec561.jpg)
-" alt="Watch the video" width="1920" height="1080" border="0" />
+ <img src="https://img.youtube.com/vi/JEPZkYu6nmU/default.jpg" alt="Watch the video" width="1920" height="1080" border="0" />
 </a>
 
 ![alt text][image]
-[image]: C:\Users\William Warren\Desktop\2023\Lowrestitle.jpg "alt_txt"
+[image]: ![Lowrestitle](https://user-images.githubusercontent.com/128419133/227612104-beb2fd9a-792a-4aa7-9880-0ddba54ec561.jpg) "alt_txt"
 
 # Community  
  
