@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-06-23T14:42:18Z",
+        "CreationDate": "2021-06-23T10:25:48Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.586,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "LoadCell-Board"
+            "ProjectId": "Stepper-Controller"
         },
         "Owner": "Marguerite Tricaud <marguerite.tricaud@gmail.com>",
         "Size": {
-            "X": 50,
-            "Y": 150
+            "X": 75,
+            "Y": 70
         }
     }
 }
