@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-06-23T15:04:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.586,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "CAN-servo-control"
+        },
+        "Owner": "Marguerite Tricaud <marguerite.tricaud@gmail.com>",
+        "Size": {
+            "X": 50,
+            "Y": 150
+        }
+    }
+}
