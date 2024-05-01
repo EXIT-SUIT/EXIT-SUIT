@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-06-23T10:25:48Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.586,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Stepper-Controller"
+        },
+        "Owner": "Marguerite Tricaud <marguerite.tricaud@gmail.com>",
+        "Size": {
+            "X": 75,
+            "Y": 70
+        }
+    }
+}
